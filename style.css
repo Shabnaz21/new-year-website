@@ -1,0 +1,51 @@
+*{
+
+}
+
+.conatiner{
+    background-image: url('images/banner/banner3.png');
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: flex-end;
+}
+.conatiner{
+    padding-right: 230px;
+    padding-top: 250px;
+}
+.head-title{
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.selection-descrpition{
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.btn-primary{
+    color: #005FAC;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 15px 20px;
+    border: 0;
+    position: absolute;
+    right: 240px;
+    top: 650px; 
+}
+
+.head-title{
+    margin-top: 24px;
+}
+.selection-descrpition{
+    margin-top: 0;
+    margin-bottom: 32px;
+}
