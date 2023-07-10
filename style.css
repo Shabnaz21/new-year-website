@@ -16,15 +16,13 @@
 .head-title{
     color: #FFF;
     text-align: right;
-    font-family: Work Sans;
     font-size: 65px;
     font-weight: 700;
 }
 
-.selection-descrpition{
+.head-descrpition{
     color: #FFF;
     text-align: right;
-    font-family: Work Sans;
     font-size: 16px;
     font-weight: 400;
 }
@@ -32,7 +30,6 @@
 .btn-primary{
     color: #005FAC;
     text-align: right;
-    font-family: Work Sans;
     font-size: 20px;
     font-weight: 600;
     padding: 15px 20px;
@@ -52,7 +49,6 @@
 
 .section-title{
     color:  #151414;
-    font-family: Work Sans;
     font-size: 40px;
     font-weight: 700;
 
@@ -74,7 +70,6 @@ main section{
 .failures-container ul{
     list-style-type: '\2713';
     color: #444343;
-    font-family: Work Sans;
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
@@ -85,7 +80,6 @@ main section{
 }
 .section-descrpition{
     color: #444343;
-    font-family: Work Sans;
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
@@ -93,3 +87,28 @@ main section{
 
 
 /* My Plans */
+.plan{
+    text-align: center;
+    margin-left: 230px;
+}
+.skill-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.skill-title{
+    color: #151414;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.skill-descrpition{
+    color: #737272;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 15px ;
+}
