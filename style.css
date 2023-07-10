@@ -123,13 +123,8 @@ main section{
     height: 300px;
     margin-bottom: 130px;
     border-radius: 8px;
-    background-color: graident ;
     
 }
-.call-pic {
-    position: relative;
-}
-.call-pic 
 
 .call-content{
     padding: 40px 72px;
