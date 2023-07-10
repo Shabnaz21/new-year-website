@@ -68,8 +68,7 @@ main section{
     margin-left: 230px;
 }
 .failures-container ul{
-    list-style-type: '\2713';
-    color: #444343;
+    list-style: none;
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
